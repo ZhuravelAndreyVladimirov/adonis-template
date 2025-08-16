@@ -1,0 +1,1 @@
+# adonis-template
